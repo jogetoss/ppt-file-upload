@@ -1,6 +1,8 @@
 # Description
 
-This repository is meant to serve as a general template for how to set up new repositories in the JogetOSS organization. 
+This plugin enables PowerPoint file uploads and provides an embedded slideshow viewer for viewing presentations on click of an icon
+
+To setup and configure this plugin, please see the [documentation](https://dev.joget.org/community/display/SANDBOX2/PPT+File+Upload+Form+Element).
 
 # Getting Help
 
