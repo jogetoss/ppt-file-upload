@@ -73,7 +73,7 @@ public class PPTFileUpload extends Element implements FormBuilderPaletteElement,
 
     @Override
     public String getVersion() {
-        return "8.0.0";
+        return "9.1.0";
     }
 
     @Override
